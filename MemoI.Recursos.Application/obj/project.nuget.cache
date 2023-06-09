@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYhpgSngZjFhiVR+5QZAhfjuxk3LJBdcX3gLSSqqztnZ6Mu4W52N3PMuCvATCdKyu0fKJEHDGDNoXY6F64/01g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Application\\MemoI.Recursos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0-preview.4.23259.3\\microsoft.entityframeworkcore.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0-preview.4.23259.3\\microsoft.entityframeworkcore.abstractions.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0-preview.4.23259.3\\microsoft.entityframeworkcore.analyzers.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0-preview.4.23259.3\\microsoft.entityframeworkcore.relational.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.caching.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0-preview.4.23259.5\\microsoft.extensions.caching.memory.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.configuration.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.4.23259.5\\microsoft.extensions.dependencyinjection.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-preview.4.23259.5\\microsoft.extensions.logging.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.logging.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.4.23259.5\\microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.4.23259.5\\microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\nodatime\\3.1.9\\nodatime.3.1.9.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0-preview.4\\npgsql.entityframeworkcore.postgresql.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql.nodatime\\8.0.0-preview.4\\npgsql.entityframeworkcore.postgresql.nodatime.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql.nodatime\\8.0.0-preview.4\\npgsql.nodatime.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Application\\MemoI.Recursos.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Application\\MemoI.Recursos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Application\\MemoI.Recursos.Application.csproj",
+        "projectName": "MemoI.Recursos.Application",
+        "projectPath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Application\\MemoI.Recursos.Application.csproj",
+        "packagesPath": "C:\\Users\\FranciscoInsua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FranciscoInsua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/payretailers/_packaging/payretailers/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Domain\\MemoI.Recursos.Domain.csproj": {
+                "projectPath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Domain\\MemoI.Recursos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Domain\\MemoI.Recursos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Domain\\MemoI.Recursos.Domain.csproj",
+        "projectName": "MemoI.Recursos.Domain",
+        "projectPath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Domain\\MemoI.Recursos.Domain.csproj",
+        "packagesPath": "C:\\Users\\FranciscoInsua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FranciscoInsua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/payretailers/_packaging/payretailers/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

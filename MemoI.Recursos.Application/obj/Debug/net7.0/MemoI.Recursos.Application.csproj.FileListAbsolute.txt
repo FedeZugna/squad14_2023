@@ -1,0 +1,45 @@
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.deps.json
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.pdb
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Domain.dll
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Domain.pdb
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.AssemblyReference.cache
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.AssemblyInfoInputs.cache
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.AssemblyInfo.cs
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.CopyComplete
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\refint\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.pdb
+C:\Users\FranciscoInsua\OneDrive - Payretailers Group\Documentos\MEMO I - Actividades\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\ref\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.deps.json
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.pdb
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Domain.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Domain.pdb
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.AssemblyReference.cache
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.AssemblyInfoInputs.cache
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.AssemblyInfo.cs
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.CopyComplete
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\refint\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.pdb
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\fiuba-memo1-api-recursos\MemoI.Recursos.Application\obj\Debug\net7.0\ref\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.deps.json
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Application.pdb
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Domain.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\bin\Debug\net7.0\MemoI.Recursos.Domain.pdb
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.AssemblyReference.cache
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.AssemblyInfoInputs.cache
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.AssemblyInfo.cs
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.csproj.CopyComplete
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\refint\MemoI.Recursos.Application.dll
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\MemoI.Recursos.Application.pdb
+C:\Users\FranciscoInsua\Documents\Projects\fiuba\squad14_2023\MemoI.Recursos.Application\obj\Debug\net7.0\ref\MemoI.Recursos.Application.dll
