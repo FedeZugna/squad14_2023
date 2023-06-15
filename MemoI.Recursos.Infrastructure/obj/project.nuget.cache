@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xsMNrqsitbAorz6YKYAuznzVPy5O5TxWDhI6FJfsLZPXYFnwk+9pE19DuTuZuPcj34lAdH1+aG8PRCzHFrrE6w==",
+  "dgSpecHash": "BwEk2RpD4BEviQ4U1woXst3yhcWf9SwbHurSNSOdjpZTblXZJ25JlmVQjc0o5DwTr/BmChq/QRblSWSzB6/s8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.Infrastructure\\MemoI.Recursos.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.logging.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.4.23259.5\\microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.4.23259.5\\microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\nodatime\\3.1.9\\nodatime.3.1.9.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0-preview.4\\npgsql.entityframeworkcore.postgresql.8.0.0-preview.4.nupkg.sha512",

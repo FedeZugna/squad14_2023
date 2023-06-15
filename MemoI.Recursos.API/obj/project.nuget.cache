@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xAUd3uV4u2WWpmBke3vkeYtWLKwsmKRlQSQYXvFRNax2sODjXTku5S/y8uMcjuj6ZTI3cvimW3rwZoUrmhi5pw==",
+  "dgSpecHash": "p6SrdhbaQa/FAJ9S/BXjsaJ6VLZDGFqQd5Z4ZMCDVk64gZVBhRYppvDT/fALLobyiZS6Bd/fNYvLI5WTHNCrFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\FranciscoInsua\\Documents\\Projects\\fiuba\\squad14_2023\\MemoI.Recursos.API\\MemoI.Recursos.API.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.4.23259.5\\microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.4.23259.5\\microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\FranciscoInsua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\nodatime\\3.1.9\\nodatime.3.1.9.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
     "C:\\Users\\FranciscoInsua\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0-preview.4\\npgsql.entityframeworkcore.postgresql.8.0.0-preview.4.nupkg.sha512",
