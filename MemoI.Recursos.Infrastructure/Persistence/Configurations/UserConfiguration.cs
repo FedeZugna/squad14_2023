@@ -9,8 +9,10 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
 {
     public void Configure(EntityTypeBuilder<User> builder)
     {
-        builder.ToTable("tbl_user").HasKey(x => x.Id);
-        builder.Property(t => t.Id).HasColumnName("id");
+        builder.ToTable("tbl_user").HasKey(x => x.Legajo);
+        builder.Property(t => t.Legajo).HasColumnName("legajo");
+        builder.Property(t => t.Nombre).HasColumnName("nombre");
+        builder.Property(t => t.Apellido).HasColumnName("apellido");
     }
     
 }

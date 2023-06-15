@@ -1,6 +1,6 @@
-namespace MemoI.Recursos.Domain;
+namespace MemoI.Recursos.Application.Dtos.Users;
 
-public record User
+public class UserDto
 {
     public int Legajo { get; set; }
     public string Nombre { get; set; }

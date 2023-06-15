@@ -10,6 +10,13 @@ public class BaseResponse
     public bool Success { get; set; }
     public string Message { get; set; }
     
+    public BaseResponse(bool success)
+    {
+        Success = success;
+        Id = string.Empty;
+        Message = success ? "Successful" : "Failed";
+    }
+    
     public BaseResponse(bool success, string id)
     {
         Success = success;

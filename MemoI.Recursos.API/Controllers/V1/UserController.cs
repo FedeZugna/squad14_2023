@@ -20,9 +20,9 @@ public class UserController : Controller
     [HttpPost]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<BaseResponse>> CreateComment([FromBody] CreateUserDto createUserDto)
+    public async Task<ActionResult<BaseResponse>> CreateUsers()
     {
-        var response = await _userService.CreateUser(createUserDto);
+        var response = await _userService.CreateUser();
         return response.Success ? Ok(response) : BadRequest(response);
     }
     
