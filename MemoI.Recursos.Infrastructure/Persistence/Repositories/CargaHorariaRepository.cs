@@ -1,0 +1,31 @@
+﻿using MemoI.Recursos.Application.Contracts.Repositories;
+using MemoI.Recursos.Domain;
+
+namespace MemoI.Recursos.Infrastructure.Persistence.Repositories;
+
+public class CargaHorariaRepository : ICargaHorariaRepository
+{
+    protected readonly RecursosDbContext _context;
+        
+    public CargaHorariaRepository(RecursosDbContext context)
+    {
+        _context = context;
+    }
+    
+    public async Task Add(CargaHoraria cargaHoraria)
+    { 
+        await _context.Cargahorarias.AddAsync(cargaHoraria);
+        await _context.SaveChangesAsync();
+    }
+
+    public async Task Delete(string id)
+    {
+        var cargaHoraria = await _context.Cargahorarias.FindAsync(id);
+        if (cargaHoraria is null)
+        {
+            return ;
+        }
+        _context.Cargahorarias.Remove(cargaHoraria);
+        await _context.SaveChangesAsync();
+    }
+}

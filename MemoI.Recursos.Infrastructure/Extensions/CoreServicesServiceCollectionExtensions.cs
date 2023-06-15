@@ -10,6 +10,7 @@ public static class CoreServicesServiceCollectionExtensions
     {
         // Services
         services.AddScoped<IUserService, UserService>();
+        services.AddScoped<ICargaHorariaService, CargaHorariaService>();
         // services.AddScoped<ICommentService, CommentService>();
         services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         return services;

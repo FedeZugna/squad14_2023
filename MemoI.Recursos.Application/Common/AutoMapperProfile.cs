@@ -1,4 +1,5 @@
 using AutoMapper;
+using MemoI.Recursos.Application.Dtos.CargaHorarias;
 using MemoI.Recursos.Application.Dtos.Users;
 using MemoI.Recursos.Domain;
 
@@ -11,6 +12,7 @@ public class AutoMapperProfile : Profile
         // Tickets
         //CreateMap<TicketDto, User>().ReverseMap();
         CreateMap<CreateUserDto, User>();
+        CreateMap<CreateCargaHorariaDto, CargaHoraria>();
     }
     
 }
