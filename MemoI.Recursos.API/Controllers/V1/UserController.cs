@@ -17,13 +17,12 @@ public class UserController : Controller
     }
     
 
-    [HttpPost]
+    [HttpGet]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<BaseResponse>> CreateUsers()
+    public async Task<ActionResult<List<UserDto>>> GetUsers()
     {
-        var response = await _userService.CreateUser();
-        return response.Success ? Ok(response) : BadRequest(response);
+        return await _userService.GetUsers();
     }
     
 }

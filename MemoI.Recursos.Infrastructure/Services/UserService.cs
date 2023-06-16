@@ -11,19 +11,9 @@ namespace MemoI.Recursos.Infrastructure.Services;
 
 public class UserService : IUserService
 {
-    private readonly IUserRepository _userRepository;
-    private readonly IMapper _mapper;
     private const string _recursosUrl = "https://anypoint.mulesoft.com/mocking/api/v1/sources/exchange/assets/754f50e8-20d8-4223-bbdc-56d50131d0ae/recursos-psa/1.0.0/m/api/recursos";
     
-    public UserService(
-        IUserRepository userRepository, 
-        IMapper mapper)
-    {
-        _userRepository = userRepository;
-        _mapper = mapper;
-    }
-    
-    public async Task<BaseResponse> CreateUser()
+    public async Task<List<UserDto>> GetUsers()
     {
         try
         {
@@ -35,17 +25,14 @@ public class UserService : IUserService
             var responseBody = await response.Content.ReadAsStringAsync();
             
             var userDtos = JsonConvert.DeserializeObject<List<UserDto>>(responseBody);
-            var users = _mapper.Map<List<User>>(userDtos);
-
-            await _userRepository.DeleteAll();
-            await _userRepository.AddRange(users);
-
-            return new BaseResponse(true);
+            if (userDtos != null)
+                return userDtos;
         }
         catch (Exception e)
         {
-            return new BaseResponse(false, "", e.Message);
+            return new List<UserDto>();
         }
+        return new List<UserDto>();
     }
         
 }

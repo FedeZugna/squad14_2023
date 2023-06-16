@@ -18,10 +18,8 @@ public static class DatabaseServiceCollectionExtensions
         
             
         // Repositories
-        services.AddScoped<IUserRepository, UserRepository>();
         services.AddScoped<ICargaHorariaRepository, CargaHorariaRepository>();
-        // services.AddScoped<ICommentRepository, CommentRepository>();
-        
+
         return services;
     }
 }

@@ -17,14 +17,12 @@ public class RecursosDbContext : DbContext
         ModelConfig(modelBuilder);
     }
     
-    public virtual DbSet<User> Users { get; set; }
     
     public virtual DbSet<CargaHoraria> Cargahorarias { get; set; }
 
     private static void ModelConfig(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(RecursosDbContext).Assembly);
-        modelBuilder.ApplyConfiguration(new UserConfiguration());
         modelBuilder.ApplyConfiguration(new CargaHorariaConfiguration());
     }
     

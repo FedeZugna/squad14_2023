@@ -5,5 +5,5 @@ namespace MemoI.Recursos.Application.Contracts.Services;
 
 public interface IUserService
 {
-    Task<BaseResponse> CreateUser(); 
+    Task<List<UserDto>> GetUsers();
 }

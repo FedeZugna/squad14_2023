@@ -9,9 +9,6 @@ public class AutoMapperProfile : Profile
 {
     public AutoMapperProfile()
     {
-        // Users
-        CreateMap<UserDto, User>().ReverseMap();
-        
         // CargaHorarias
         CreateMap<CreateCargaHorariaDto, CargaHoraria>().ReverseMap();
     }
