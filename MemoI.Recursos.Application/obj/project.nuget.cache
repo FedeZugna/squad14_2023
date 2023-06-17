@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8Co5yPbJ7PauouhLnrMObS6ZmJ/YD8AfK4tpSzx1B4HZOHbIY7BniZpKVsVJz85CF7IGwUnf1AttceEAwvPEw==",
+  "success": true,
+  "projectFilePath": "/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Application/MemoI.Recursos.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/flaque/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.entityframeworkcore/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.abstractions.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.analyzers.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.relational.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.caching.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.caching.memory/8.0.0-preview.4.23259.5/microsoft.extensions.caching.memory.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.configuration.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0-preview.4.23259.5/microsoft.extensions.dependencyinjection.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.logging/8.0.0-preview.4.23259.5/microsoft.extensions.logging.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.logging.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.options/8.0.0-preview.4.23259.5/microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.4.23259.5/microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/flaque/.nuget/packages/nodatime/3.1.9/nodatime.3.1.9.nupkg.sha512",
+    "/home/flaque/.nuget/packages/npgsql/8.0.0-preview.4/npgsql.8.0.0-preview.4.nupkg.sha512",
+    "/home/flaque/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.0-preview.4/npgsql.entityframeworkcore.postgresql.8.0.0-preview.4.nupkg.sha512",
+    "/home/flaque/.nuget/packages/npgsql.entityframeworkcore.postgresql.nodatime/8.0.0-preview.4/npgsql.entityframeworkcore.postgresql.nodatime.8.0.0-preview.4.nupkg.sha512",
+    "/home/flaque/.nuget/packages/npgsql.nodatime/8.0.0-preview.4/npgsql.nodatime.8.0.0-preview.4.nupkg.sha512",
+    "/home/flaque/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

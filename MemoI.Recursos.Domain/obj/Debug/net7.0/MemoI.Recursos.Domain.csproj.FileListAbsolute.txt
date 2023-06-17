@@ -1,0 +1,52 @@
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.deps.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.AssemblyReference.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfoInputs.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfo.cs
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.CoreCompileInputs.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/EFCoreNpgsqlNodaTime.cs
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/refint/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/ref/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.deps.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.AssemblyReference.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfoInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfo.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.CoreCompileInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/EFCoreNpgsqlNodaTime.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/refint/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.Domain/obj/Debug/net7.0/ref/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.deps.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.AssemblyReference.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfoInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfo.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.CoreCompileInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/EFCoreNpgsqlNodaTime.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/refint/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/ref/MemoI.Recursos.Domain.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.deps.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.AssemblyReference.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfoInputs.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.AssemblyInfo.cs
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.csproj.CoreCompileInputs.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/EFCoreNpgsqlNodaTime.cs
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/refint/MemoI.Recursos.Domain.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/MemoI.Recursos.Domain.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.Domain/obj/Debug/net7.0/ref/MemoI.Recursos.Domain.dll
