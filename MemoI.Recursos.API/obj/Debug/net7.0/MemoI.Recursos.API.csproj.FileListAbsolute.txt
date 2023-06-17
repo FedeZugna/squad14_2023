@@ -1,0 +1,236 @@
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.AssemblyReference.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfoInputs.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfo.cs
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CoreCompileInputs.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.exe
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.deps.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.runtimeconfig.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Core.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Microsoft.EntityFrameworkCore.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/NodaTime.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.NodaTime.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.MemoI.Recursos.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.build.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/scopedcss/bundle/MemoI.Recursos.API.styles.css
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CopyComplete
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/refint/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.pdb
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.genruntimeconfig.cache
+C:/Users/FranciscoInsua/OneDrive - Payretailers Group/Documentos/MEMO I - Actividades/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/ref/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.exe
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.deps.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.runtimeconfig.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Core.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Microsoft.EntityFrameworkCore.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/NodaTime.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.NodaTime.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.AssemblyReference.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfoInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfo.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CoreCompileInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.MemoI.Recursos.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.build.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/scopedcss/bundle/MemoI.Recursos.API.styles.css
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CopyComplete
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/refint/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.genruntimeconfig.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/fiuba-memo1-api-recursos/MemoI.Recursos.API/obj/Debug/net7.0/ref/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.exe
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.deps.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.runtimeconfig.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Core.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Microsoft.EntityFrameworkCore.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/NodaTime.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.NodaTime.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.AssemblyReference.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfoInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfo.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CoreCompileInputs.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.MemoI.Recursos.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.build.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MemoI.Recursos.API.props
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/scopedcss/bundle/MemoI.Recursos.API.styles.css
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CopyComplete
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/refint/MemoI.Recursos.API.dll
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.pdb
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.genruntimeconfig.cache
+C:/Users/FranciscoInsua/Documents/Projects/fiuba/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/ref/MemoI.Recursos.API.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.Development.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/appsettings.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.deps.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.runtimeconfig.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.API.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Core.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/LinqKit.Microsoft.EntityFrameworkCore.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/NodaTime.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Npgsql.NodaTime.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Application.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Infrastructure.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/bin/Debug/net7.0/MemoI.Recursos.Domain.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.AssemblyReference.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfoInputs.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.AssemblyInfo.cs
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CoreCompileInputs.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cs
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.MvcApplicationPartsAssemblyInfo.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.MemoI.Recursos.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.build.MemoI.Recursos.API.props
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MemoI.Recursos.API.props
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MemoI.Recursos.API.props
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.pack.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.build.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/staticwebassets.development.json
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/scopedcss/bundle/MemoI.Recursos.API.styles.css
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.csproj.CopyComplete
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/refint/MemoI.Recursos.API.dll
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.pdb
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/MemoI.Recursos.API.genruntimeconfig.cache
+/home/flaque/Documentos/squad14_2023/MemoI.Recursos.API/obj/Debug/net7.0/ref/MemoI.Recursos.API.dll
